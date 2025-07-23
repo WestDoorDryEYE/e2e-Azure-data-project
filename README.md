@@ -1,2 +1,2 @@
 # e2e-Azure-real-time-project
-![Data Flow](./projecy_architecture.png)
+![Data Flow](./projct_archetecture.png)
