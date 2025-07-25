@@ -1,8 +1,6 @@
-# e2e-Azure-real-time-project
-
 # End-to-End Azure Data Engineering Project
 
-This project demonstrates a real-time Azure Data Engineering pipeline using the modern medallion architecture.
+This project is a practical, real-time implementation of a complete data engineering pipeline on Microsoft Azure. It uses the modern medallion architecture and could tools on Azure to manage data from raw ingestion to curated analytics.
 
 ##  Technologies Used
 - Azure Data Factory (ADF)
